@@ -1,0 +1,18 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "vite --host --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@my-lib/components": "workspace:*",
+    "eslint-config-custom": "workspace:*",
+    "my-lib": "workspace:*",
+    "tailwind-config": "workspace:*"
+  }
+}

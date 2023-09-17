@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+dump.rdb
+package-lock.json
+
+/cypress/videos/
+/cypress/screenshots/
+.env.development
+vite.config.redirect.ts
+
+# Editor directories and files
+wepig_pc_fe.code-workspace
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

@@ -1,0 +1,28 @@
+{
+  "name": "my-lib",
+  "version": "1.0.0",
+  "main": "lib/packages/components/index.js",
+  "module": "es/packages/components/index.mjs",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "my-lib",
+    "vue3组件库"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "author": "chenxiaosen",
+  "license": "MIT",
+  "description": "",
+  "typings": "lib/index.d.ts",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/"
+  }
+}
