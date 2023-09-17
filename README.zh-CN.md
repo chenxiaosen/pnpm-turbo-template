@@ -85,7 +85,7 @@ git clone git@github.com:chenxiaosen/pnpm-turbo-template.git
 切换到项目目录：
 
 ```shell
-cd turbo-pnpm
+cd pnpm-turbo-template
 ```
 
 安装项目依赖：

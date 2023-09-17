@@ -86,7 +86,7 @@ git clone git@github.com:chenxiaosen/pnpm-turbo-template.git
 Switch to the project directory:
 
 ```shell
-cd turbo-pnpm
+cd pnpm-turbo-template
 ```
 
 Install project dependencies:
