@@ -1,4 +1,5 @@
 # TurboRepo + PNPM Architecture Project
+
 **Read this in other languages: [简体中文](README.zh-CN.md).**
 
 This project adopts the TurboRepo + PNPM architecture and uses the following tech stack:
@@ -79,7 +80,7 @@ For specific operations, refer to https://cn.vuejs.org/guide/typescript/overview
 Clone the repository on your local machine:
 
 ```shell
-git clone git@github.com:your-project/turbo-pnpm.git
+git clone git@github.com:chenxiaosen/pnpm-turbo-template.git
 ```
 
 Switch to the project directory:

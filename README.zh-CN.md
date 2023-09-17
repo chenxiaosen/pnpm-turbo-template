@@ -79,7 +79,7 @@ npm install -g pnpm
 在你的本地机器上克隆仓库：
 
 ```shell
-git clone git@github.com:your-project/turbo-pnpm.git
+git clone git@github.com:chenxiaosen/pnpm-turbo-template.git
 ```
 
 切换到项目目录：
